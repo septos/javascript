@@ -1,0 +1,2 @@
+const coffee = new Promise();
+

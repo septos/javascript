@@ -1,0 +1,4 @@
+
+cara pengaturan user git
+git config --global user.name "from asusx200"
+git config --global.user.email "mistersepto@gmail.com"
